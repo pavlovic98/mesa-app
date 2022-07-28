@@ -1,0 +1,12 @@
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\bin\Debug\net6.0\Mesa.Shared.Domain.deps.json
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\bin\Debug\net6.0\Mesa.Shared.Domain.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\bin\Debug\net6.0\Mesa.Shared.Domain.pdb
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.csproj.AssemblyReference.cache
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.AssemblyInfoInputs.cache
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.AssemblyInfo.cs
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\refint\Mesa.Shared.Domain.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\Mesa.Shared.Domain.pdb
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Domain\obj\Debug\net6.0\ref\Mesa.Shared.Domain.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mesa.Shared.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Mesa.Shared.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Mesa.Shared.Infrastructure.dll": {}
+        }
+      },
+      "Mesa.Shared.Domain/1.0.0": {
+        "runtime": {
+          "Mesa.Shared.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mesa.Shared.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mesa.Shared.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\bin\Debug\net6.0\Mesa.Shared.Infrastructure.deps.json
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\bin\Debug\net6.0\Mesa.Shared.Infrastructure.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\bin\Debug\net6.0\Mesa.Shared.Infrastructure.pdb
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\bin\Debug\net6.0\Mesa.Shared.Domain.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\bin\Debug\net6.0\Mesa.Shared.Domain.pdb
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.AssemblyInfo.cs
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.csproj.CopyComplete
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\refint\Mesa.Shared.Infrastructure.dll
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\Mesa.Shared.Infrastructure.pdb
+C:\Users\mladen.pavlovic\Desktop\Mesa.Shared.WebApp\Mesa.Shared.Infrastructure\obj\Debug\net6.0\ref\Mesa.Shared.Infrastructure.dll
